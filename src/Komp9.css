@@ -1,0 +1,19 @@
+.prekiu-wrapper{
+    background-color: white;
+    color: #282c34;
+    border-radius: 5%;
+    padding: 10px;
+    width: 40%;
+    font-size: smaller;
+    margin: 10px;
+
+}
+.prekiu-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.prekes-blokas{
+    width: 100%;
+    padding: 15px;
+    font-size: smaller;
+}

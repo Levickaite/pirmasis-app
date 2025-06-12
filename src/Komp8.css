@@ -1,0 +1,14 @@
+.prekesKortele{
+    background-color: white;
+    color: #282c34;
+    border-radius: 5%;
+    padding: 10px;
+    width: 40%;
+    font-size: smaller;
+    margin: 10px;
+}
+img{
+    border-radius: 5%;
+    width: 50%;
+    height: 50%;
+}
