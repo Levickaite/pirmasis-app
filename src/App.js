@@ -4,6 +4,7 @@ import Komp7 from './Komp7';
 import Komp8 from './Komp8';
 import Komp9 from './Komp9';
 import TreciaUzduotis from './treciaUzd.jsx';
+import KetvirtaUzdduotis from './ketvirtaUzd.jsx'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Komp8/>
         <Komp9/> */}
         <TreciaUzduotis/>
+        <KetvirtaUzdduotis/>
       </header>
     </div>
   );
