@@ -1,0 +1,19 @@
+.navi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+    width: 90%;
+    
+}
+.sarasas{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    gap: 20px;
+    list-style: none;
+    font-size: smaller;
+    cursor: pointer;
+}

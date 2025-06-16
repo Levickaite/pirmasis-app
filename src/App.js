@@ -3,18 +3,19 @@ import './App.css';
 import Komp7 from './Komp7';
 import Komp8 from './Komp8';
 import Komp9 from './Komp9';
+import TreciaUzduotis from './treciaUzd.jsx';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Komponentas4/>
+        {/* <Komponentas4/>
         <Komponentas5/>
         <Komponentas6/>
         <Komp7/>
         <Komp8/>
-        <Komp9/>
-
+        <Komp9/> */}
+        <TreciaUzduotis/>
       </header>
     </div>
   );

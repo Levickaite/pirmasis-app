@@ -1,0 +1,17 @@
+.footeris{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+    font-size: small;
+    width: 90%;
+    
+}
+
+.kontaktai{
+    text-align: right;
+}
+.kontaktai ul{
+    list-style: none;
+    cursor: pointer;
+}

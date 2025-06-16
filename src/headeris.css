@@ -1,0 +1,19 @@
+.antraste{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 60px 30px;
+    background-color: rgba(240, 248, 255, 0.137);
+}
+.antraste p{
+    font-size: smaller;
+}
+.antraste button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: rgb(148, 146, 245);
+}
+.antraste header{
+    font-weight: bold;
+}

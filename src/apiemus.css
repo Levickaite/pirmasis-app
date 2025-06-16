@@ -1,0 +1,16 @@
+.blokas{
+    background-color: rgba(240, 248, 255, 0.137);
+    padding: 60px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.blokas p{
+    font-size: smaller;
+    margin-bottom: 50px;
+}
+.blokas img{
+    width: 60%;
+    border-radius: 0;
+    
+}

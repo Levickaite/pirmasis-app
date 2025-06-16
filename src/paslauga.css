@@ -1,0 +1,19 @@
+.grid{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    border: 1px solid white ;
+    padding: 20px;
+}
+.paslaugos{
+    padding: 30px;
+}
+.paslauga{
+    font-size: smaller;
+    border: 1px solid white;
+    padding: 20px;
+    height: 200px;
+}
+.paslauga p{
+    font-size: smaller;
+}
