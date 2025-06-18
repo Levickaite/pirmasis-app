@@ -1,10 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Komp7 from './Komp7';
-import Komp8 from './Komp8';
-import Komp9 from './Komp9';
-import TreciaUzduotis from './treciaUzd.jsx';
-import KetvirtaUzdduotis from './ketvirtaUzd.jsx'
+import Komp7 from './pirmieji komponentai/Komp7';
+import Komp8 from './pirmieji komponentai/Komp8';
+import Komp9 from './pirmieji komponentai/Komp9';
+import TreciaUzduotis from './treciaUzd/treciaUzd.jsx';
+import KetvirtaUzdduotis from './ketvirtaUzd/ketvirtaUzd.jsx'
+import PenktaUzduotis from './penktaUzd/penktauzd.jsx'
+import SestaUzduotis from './sestaUzd/sestaUzd.jsx';
+import SeptintaUzduotis from './septintauzd/septintaUzd.jsx';
+import AstuntaUzduotis from './astuntaUzd/astuntaUzd.jsx';
 
 function App() {
   return (
@@ -18,6 +22,10 @@ function App() {
         <Komp9/> */}
         <TreciaUzduotis/>
         <KetvirtaUzdduotis/>
+        <PenktaUzduotis/>
+        <SestaUzduotis/>
+        <SeptintaUzduotis/>
+        <AstuntaUzduotis/>
       </header>
     </div>
   );

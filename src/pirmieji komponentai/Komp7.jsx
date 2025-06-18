@@ -7,8 +7,8 @@ const Komp7 = () => {
     <div className='septintasMasyvas'>
       <h2>7to komponento masyvas</h2>
       <div className='masyvoElementai'>
-        {masyvas.map((e, index)=>{
-          return <p key={index}>{e}</p>
+        {masyvas.map((e, )=>{
+          return <p>{e}</p>
         })}
       </div>
     </div>
