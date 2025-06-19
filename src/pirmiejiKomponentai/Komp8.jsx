@@ -1,5 +1,6 @@
 import React from 'react'
 import './Komp8.css';
+import komp8css from './pirmiejiKomponentai/komp8.css'
 
 const Komp8 = () => {
   let preke = {

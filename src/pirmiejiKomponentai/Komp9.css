@@ -6,7 +6,7 @@
     width: 40%;
     font-size: smaller;
     margin: 10px;
-
+    justify-self: center;
 }
 .prekiu-list{
     display: flex;
@@ -16,4 +16,7 @@
     width: 100%;
     padding: 15px;
     font-size: smaller;
+}
+.komp9{
+    padding: 40px;
 }

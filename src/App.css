@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.komp4{
+  padding: 20px;
+}
+.komp5{
+  display: flex;
+  flex-direction: column;
+  
+  padding: 20px;
+}
+.komp5 ul{
+  list-style: none;
+}
+.komp6{
+  padding: 20px;
+}
+.App p{
+  font-size: smaller;
+  margin: 5px;
+}
+.App li{
+  font-size: smaller;
+  list-style: none;
+}

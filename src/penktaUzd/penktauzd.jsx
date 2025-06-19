@@ -1,3 +1,4 @@
+import penkta from './penktaUzd/penkta.css'
 const PenktaUzduotis=()=>{
     const a = 68
     const b =31

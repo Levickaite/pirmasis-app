@@ -1,4 +1,5 @@
 import React from "react";
+import ketvirta from './ketvirtaUzd/ketvirta.css'
 const KetvirtaUzduotis=()=>{
     const studentas1 ={
         vardas: 'Jonas',

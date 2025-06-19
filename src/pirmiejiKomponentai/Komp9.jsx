@@ -19,18 +19,20 @@ const Komp9 = () => {
   // atvaizduokite return dalyje
 
   return (
-    <div className='prekiu-wrapper'>
-        <h2>Prekės</h2>
-        <div className='prekiu-list'>
-            {prekes.map((preke)=>
-            <div className='prekes-blokas'>
-                <h3>{preke.pavadinimas}</h3>
-                <p>Prekė kainuoja: {preke.kaina} €</p>
-                <p>Jos turime: {preke.kiekis} vnt.</p>
-            </div>
-            )}
-        </div>
-    </div>
+    <div className="komp9">
+      <div className='prekiu-wrapper'>
+          <h2>Prekės</h2>
+          <div className='prekiu-list'>
+              {prekes.map((preke)=>
+              <div className='prekes-blokas'>
+                  <h3>{preke.pavadinimas}</h3>
+                  <p>Prekė kainuoja: {preke.kaina} €</p>
+                  <p>Jos turime: {preke.kiekis} vnt.</p>
+              </div>
+              )}
+          </div>
+      </div>
+      </div>
   )
 }
 

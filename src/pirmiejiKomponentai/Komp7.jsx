@@ -1,4 +1,5 @@
 import React from 'react'
+import komp7css from './pirmiejiKomponentai/komp7.css'
 
 const Komp7 = () => {
   const masyvas = ['kėdė','stalas','langas','durys']
