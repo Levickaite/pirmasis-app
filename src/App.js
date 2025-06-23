@@ -13,6 +13,9 @@ import DevintaUzduotis from './devintaUzd/devintaUzd.jsx'
 import DesimtaUzduotis from './desimtaUzd/desimtaUzd.jsx'
 import Knygynas from './vienuoliktaUzd/Knygynas.jsx';
 import DvyliktaUzduotis from './dvyliktaUzd/dvyliktaUzd.jsx'
+import Projektai from './tryliktaUzd/Projektai.jsx';
+import NavBar from './treciaUzd/navi.jsx';
+import Navbar from './keturioliktaUzd/Navbar.jsx';
 
 
 function App() {
@@ -35,6 +38,8 @@ function App() {
         <DesimtaUzduotis/>
         <Knygynas/>
         <DvyliktaUzduotis/>
+        <Projektai/>
+        <Navbar/>
       </header>
     </div>
   );
